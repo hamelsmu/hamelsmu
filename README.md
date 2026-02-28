@@ -1,6 +1,6 @@
 # Hi, I'm Hamel
 
-I'm an ML engineer and independent consultant at [Parlance Labs](https://parlance-labs.com). I spend most of my time helping teams build and evaluate AI products. Previously, I worked at GitHub on [CodeSearchNet](https://github.com/github/CodeSearchNet) and at Airbnb on ML infrastructure.
+I'm an ML engineer and independent consultant at [Parlance Labs](https://parlance-labs.com). I spend most of my time helping teams build AI products. Previously, I worked at GitHub on [CodeSearchNet](https://github.com/github/CodeSearchNet) and at Airbnb on ML infrastructure.
 
 ## What I'm working on
 
