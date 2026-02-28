@@ -12,12 +12,8 @@ I'm an ML engineer and independent consultant at [Parlance Labs](https://parlanc
 
 I write about what I learn at **[hamel.dev](https://hamel.dev)**. Some recent posts:
 
-- [LLM Evals: Everything You Need to Know](https://hamel.dev/blog/posts/evals-faq/)
-- [Selecting The Right AI Evals Tool](https://hamel.dev/blog/posts/eval-tools/)
-- [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/)
-- [Using LLM-as-a-Judge: A Complete Guide](https://hamel.dev/blog/posts/llm-judge/)
-- [Your AI Product Needs Evals](https://hamel.dev/blog/posts/evals/)
-- [Stop Saying RAG Is Dead](https://hamel.dev/notes/llm/rag/not_dead.html)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Open source
 
