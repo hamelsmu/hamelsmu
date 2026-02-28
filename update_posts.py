@@ -27,11 +27,11 @@ for entry in feed.entries:
     if any(t in entry.title for t in IGNORE):
         continue
     date = time.strftime("%b %Y", entry.published_parsed)
-    rows.append(f"| {date} | [{entry.title}]({entry.link}) |")
+    rows.append(f"| {date} | {entry.title} | [->]({entry.link}) |")
     if len(rows) >= MAX_POSTS:
         break
 
-block = "| Date | Post |\n| --- | --- |\n" + "\n".join(rows)
+block = "| Date | Post | |\n| --- | --- | --- |\n" + "\n".join(rows)
 with open("README.md") as f:
     readme = f.read()
 readme = re.sub(
