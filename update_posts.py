@@ -29,12 +29,14 @@ for entry in feed.entries:
         break
 
 block = "\n".join(lines)
-readme = open("README.md").read()
+with open("README.md") as f:
+    readme = f.read()
 readme = re.sub(
     r"(<!-- BLOG-POST-LIST:START -->\n).*?(\n<!-- BLOG-POST-LIST:END -->)",
     rf"\1{block}\2",
     readme,
     flags=re.DOTALL,
 )
-open("README.md", "w").write(readme)
+with open("README.md", "w") as f:
+    f.write(readme)
 print(f"Updated README with {len(lines)} posts")
