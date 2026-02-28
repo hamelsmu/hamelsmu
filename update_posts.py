@@ -10,6 +10,7 @@ IGNORE = [
     "Why I Stopped Using nbdev",
     "Selecting The Right AI Evals Tool",
     "Inspect AI, An OSS Python Library For LLM Evals",
+    "Thoughts On A Month With Devin",
 ]
 
 # Fetch feed (use curl as fallback for SSL issues)
