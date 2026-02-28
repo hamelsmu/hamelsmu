@@ -8,7 +8,7 @@ I'm an ML engineer and independent consultant at [Parlance Labs](https://parlanc
   <img src="evals-book-cover.jpg" alt="Evals for AI Engineers - O'Reilly" width="180" align="right" />
 </a>
 
-I'm working to bring data science back to AI — helping teams debug, analyze, and measure their systems. I call this "evals," and after doing it across 35+ AI products, I co-authored [Evals for AI Engineers](https://www.oreilly.com/library/view/evals-for-ai/9798341660717/) (O'Reilly), covering error analysis, LLM-as-a-judge, synthetic data, production monitoring, and building data flywheels. I also co-teach a [course on evals](https://maven.com/parlance-labs/evals?promoCode=evals-info-url) on Maven.
+I'm working to bring data science back to AI: helping teams debug, analyze, and measure their systems. I call this "evals," and after doing it across 35+ AI products, I co-authored [Evals for AI Engineers](https://www.oreilly.com/library/view/evals-for-ai/9798341660717/) (O'Reilly), covering error analysis, LLM-as-a-judge, synthetic data, production monitoring, and building data flywheels. I also co-teach a [course on evals](https://maven.com/parlance-labs/evals?promoCode=evals-info-url) on Maven.
 
 I write about what I learn at **[hamel.dev](https://hamel.dev)**. Some recent posts:
 
@@ -23,4 +23,4 @@ I write about what I learn at **[hamel.dev](https://hamel.dev)**. Some recent po
 
 ## Open source
 
-I've contributed to tools across ML infrastructure, developer experience, and data science workflows — things like machine learning frameworks, workflow orchestration, Jupyter tooling, and code search. [Full list here](https://hamel.dev/oss/opensource.html).
+I've contributed to tools across ML infrastructure, developer experience, and data science workflows: machine learning frameworks, workflow orchestration, Jupyter tooling, and code search. [Full list here](https://hamel.dev/oss/opensource.html).
