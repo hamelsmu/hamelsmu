@@ -1,6 +1,6 @@
 # Hi, I'm Hamel
 
-I'm an ML engineer and independent consultant at [Parlance Labs](https://parlance-labs.com). I spend most of my time helping teams build AI products. Previously, I worked at GitHub on [CodeSearchNet](https://github.com/github/CodeSearchNet) and at Airbnb on ML infrastructure.
+I'm an ML engineer and independent consultant at [Parlance Labs](https://parlance-labs.com). I spend most of my time helping teams build AI products. Previously, I did applied ML research at GitHub and worked on ML infrastructure at Airbnb.
 
 ## What I'm working on
 
@@ -21,10 +21,4 @@ I write about what I learn at **[hamel.dev](https://hamel.dev)**. Some recent po
 - [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/)
 <!-- BLOG-POST-LIST:END -->
 
-## Open source
-
-Some projects I've been involved with:
-
-- **[nbdev](https://github.com/AnswerDotAI/nbdev)** — Literate programming framework for Python
-- **[fastpages](https://github.com/fastai/fastpages)** — Blogging with Jupyter notebooks (archived)
-- **[CodeSearchNet](https://github.com/github/CodeSearchNet)** — Datasets and benchmarks for code search (my work at GitHub, which influenced later code embedding research at OpenAI)
+## [Open source](https://hamel.dev/oss/opensource.html)
