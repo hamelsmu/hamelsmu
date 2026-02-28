@@ -8,7 +8,7 @@ I'm an ML engineer and independent consultant at [Parlance Labs](https://parlanc
   <img src="evals-book-cover.jpg" alt="Evals for AI Engineers - O'Reilly" width="180" align="right" />
 </a>
 
-**AI Evals** — Most teams building with LLMs are flying blind. I've been working to bring data science rigor back to AI — helping teams debug, analyze, and measure their systems. I call this "evals," and after doing it across 35+ AI products, I co-authored [Evals for AI Engineers](https://www.oreilly.com/library/view/evals-for-ai/9798341660717/) (O'Reilly) with [Shreya Shankar](https://www.shreya-shankar.com/), covering error analysis, LLM-as-a-judge, synthetic data, production monitoring, and building data flywheels. I also co-teach a [course on evals](https://maven.com/parlance-labs/evals?promoCode=evals-info-url) with Shreya on Maven.
+**AI Evals** — I've been working to bring data science back to AI — helping teams debug, analyze, and measure their systems. I call this "evals," and after doing it across 35+ AI products, I co-authored [Evals for AI Engineers](https://www.oreilly.com/library/view/evals-for-ai/9798341660717/) (O'Reilly), covering error analysis, LLM-as-a-judge, synthetic data, production monitoring, and building data flywheels. I also co-teach a [course on evals](https://maven.com/parlance-labs/evals?promoCode=evals-info-url) on Maven.
 
 I write about what I learn at **[hamel.dev](https://hamel.dev)**. Some recent posts:
 
