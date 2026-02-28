@@ -17,4 +17,4 @@ jobs:
         with:
           feed_list: "https://hamel.dev/index.xml"
           max_post_count: 10
-          item_exec: "const ignore = ['Why I Stopped Using nbdev', 'Selecting The Right AI Evals Tool', 'Inspect AI, An OSS Python Library For LLM Evals']; if (ignore.some(t => post.title.includes(t))) return false;"
+          item_exec: "post.title = ['Why I Stopped Using nbdev', 'Selecting The Right AI Evals Tool', 'Inspect AI, An OSS Python Library For LLM Evals'].some(t => post.title.includes(t)) ? '' : post.title;"
