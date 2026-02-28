@@ -13,12 +13,12 @@ I'm working to bring data science back to AI: helping teams debug, analyze, and 
 I write about what I learn at **[hamel.dev](https://hamel.dev)**. Some recent posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using nbdev](https://hamel.dev/blog/posts/ai-stack/)
 - [LLM Evals: Everything You Need to Know](https://hamel.dev/blog/posts/evals-faq/)
-- [Selecting The Right AI Evals Tool](https://hamel.dev/blog/posts/eval-tools/)
 - [Stop Saying RAG Is Dead](https://hamel.dev/)
-- [Inspect AI, An OSS Python Library For LLM Evals](https://hamel.dev/)
 - [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/)
+- [Thoughts On A Month With Devin](https://hamel.dev/)
+- [nbsanity - Share Notebooks as Polished Web Pages in Seconds](https://hamel.dev/)
+- [Building an Audience Through Technical Writing: Strategies and Mistakes](https://hamel.dev/blog/posts/audience/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Open source
