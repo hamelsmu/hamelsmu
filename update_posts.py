@@ -1,10 +1,11 @@
 """Fetch latest blog posts from RSS and update README.md."""
 import re
 import subprocess
+import time
 import feedparser
 
 FEED_URL = "https://hamel.dev/index.xml"
-MAX_POSTS = 6
+MAX_POSTS = 10
 IGNORE = [
     "Why I Stopped Using nbdev",
     "Selecting The Right AI Evals Tool",
@@ -20,15 +21,16 @@ except Exception:
     xml = subprocess.check_output(["curl", "-s", FEED_URL], text=True)
     feed = feedparser.parse(xml)
 
-lines = []
+rows = []
 for entry in feed.entries:
     if any(t in entry.title for t in IGNORE):
         continue
-    lines.append(f"- [{entry.title}]({entry.link})")
-    if len(lines) >= MAX_POSTS:
+    date = time.strftime("%b %Y", entry.published_parsed)
+    rows.append(f"| {date} | [{entry.title}]({entry.link}) |")
+    if len(rows) >= MAX_POSTS:
         break
 
-block = "\n".join(lines)
+block = "| Date | Post |\n| --- | --- |\n" + "\n".join(rows)
 with open("README.md") as f:
     readme = f.read()
 readme = re.sub(
@@ -39,4 +41,4 @@ readme = re.sub(
 )
 with open("README.md", "w") as f:
     f.write(readme)
-print(f"Updated README with {len(lines)} posts")
+print(f"Updated README with {len(rows)} posts")

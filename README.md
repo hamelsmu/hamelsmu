@@ -13,12 +13,18 @@ I'm working to bring data science back to AI: helping teams debug, analyze, and 
 I write about what I learn at **[hamel.dev](https://hamel.dev)**. Some recent posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Evals: Everything You Need to Know](https://hamel.dev/blog/posts/evals-faq/)
-- [Stop Saying RAG Is Dead](https://hamel.dev/)
-- [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/)
-- [Thoughts On A Month With Devin](https://hamel.dev/)
-- [nbsanity - Share Notebooks as Polished Web Pages in Seconds](https://hamel.dev/)
-- [Building an Audience Through Technical Writing: Strategies and Mistakes](https://hamel.dev/blog/posts/audience/)
+| Date | Post |
+| --- | --- |
+| Jan 2026 | [LLM Evals: Everything You Need to Know](https://hamel.dev/blog/posts/evals-faq/) |
+| Jul 2025 | [Stop Saying RAG Is Dead](https://hamel.dev/) |
+| Mar 2025 | [A Field Guide to Rapidly Improving AI Products](https://hamel.dev/blog/posts/field-guide/) |
+| Jan 2025 | [Thoughts On A Month With Devin](https://hamel.dev/) |
+| Dec 2024 | [nbsanity - Share Notebooks as Polished Web Pages in Seconds](https://hamel.dev/) |
+| Nov 2024 | [Building an Audience Through Technical Writing: Strategies and Mistakes](https://hamel.dev/blog/posts/audience/) |
+| Oct 2024 | [Using LLM-as-a-Judge For Evaluation: A Complete Guide](https://hamel.dev/blog/posts/llm-judge/) |
+| Oct 2024 | [Concurrency Foundations For FastHTML](https://hamel.dev/) |
+| Jul 2024 | [An Open Course on LLMs, Led by Practitioners](https://hamel.dev/blog/posts/course/) |
+| Jun 2024 | [What We've Learned From A Year of Building with LLMs](https://hamel.dev/) |
 <!-- BLOG-POST-LIST:END -->
 
 ## Open source
