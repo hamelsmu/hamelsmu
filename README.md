@@ -23,4 +23,4 @@ I write about what I learn at **[hamel.dev](https://hamel.dev)**. Some recent po
 
 ## Open source
 
-I've contributed to tools across ML infrastructure, developer experience, and data science workflows — things like fine-tuning frameworks, workflow orchestration, Jupyter tooling, and code search. [Full list here](https://hamel.dev/oss/opensource.html).
+I've contributed to tools across ML infrastructure, developer experience, and data science workflows — things like machine learning frameworks, workflow orchestration, Jupyter tooling, and code search. [Full list here](https://hamel.dev/oss/opensource.html).
