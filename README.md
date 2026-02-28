@@ -26,9 +26,3 @@ Some projects I've been involved with:
 - **[nbdev](https://github.com/AnswerDotAI/nbdev)** — Literate programming framework for Python
 - **[fastpages](https://github.com/fastai/fastpages)** — Blogging with Jupyter notebooks (archived)
 - **[CodeSearchNet](https://github.com/github/CodeSearchNet)** — Datasets and benchmarks for code search (my work at GitHub, which influenced later code embedding research at OpenAI)
-
-## Links
-
-- Blog: [hamel.dev](https://hamel.dev)
-- Twitter/X: [@HamelHusain](https://twitter.com/HamelHusain)
-- LinkedIn: [hamelhusain](https://www.linkedin.com/in/hamelhusain)
