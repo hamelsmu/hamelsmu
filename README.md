@@ -15,6 +15,7 @@ I write about what I learn at **[hamel.dev](https://hamel.dev)**. Some recent po
 <!-- BLOG-POST-LIST:START -->
 | Date | Post |
 | --- | --- |
+| Mar 2026 | [**The Revenge of the Data Scientist**](https://hamel.dev/blog/posts/revenge/) |
 | Mar 2026 | [**Evals Skills for Coding Agents**](https://hamel.dev/blog/posts/evals-skills/) |
 | Jan 2026 | [**LLM Evals: Everything You Need to Know**](https://hamel.dev/blog/posts/evals-faq/) |
 | Jul 2025 | [**Stop Saying RAG Is Dead**](https://hamel.dev/) |
@@ -24,7 +25,6 @@ I write about what I learn at **[hamel.dev](https://hamel.dev)**. Some recent po
 | Oct 2024 | [**Using LLM-as-a-Judge For Evaluation: A Complete Guide**](https://hamel.dev/blog/posts/llm-judge/) |
 | Oct 2024 | [**Concurrency Foundations For FastHTML**](https://hamel.dev/) |
 | Jul 2024 | [**An Open Course on LLMs, Led by Practitioners**](https://hamel.dev/blog/posts/course/) |
-| Jun 2024 | [**What We've Learned From A Year of Building with LLMs**](https://hamel.dev/) |
 <!-- BLOG-POST-LIST:END -->
 
 ## Open source
